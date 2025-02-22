@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "67b9bb4f2667f897bc6ff6b8"
+  },
+  "name": "John Doe",
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "67b9bc2b0332ecfdbb697ab8"
+  },
+  "name": "sam",
+  "age": 20
+},
+{
+  "_id": {
+    "$oid": "67b9bc2b0332ecfdbb697ab9"
+  },
+  "name": "Jeo",
+  "age": 34
+},
+{
+  "_id": {
+    "$oid": "67b9bc2b0332ecfdbb697aba"
+  },
+  "name": "raj",
+  "age": 22
+},
+{
+  "_id": {
+    "$oid": "67b9bc2b0332ecfdbb697abb"
+  },
+  "name": "ajay",
+  "age": 23
+},
+{
+  "_id": {
+    "$oid": "67b9bc2b0332ecfdbb697abc"
+  },
+  "name": "vijay",
+  "age": 34
+}]
